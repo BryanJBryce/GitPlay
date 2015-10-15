@@ -11,3 +11,4 @@ func fun(times: Int) {
 }
 
 fun(10)
+
